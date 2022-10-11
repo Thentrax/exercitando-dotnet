@@ -1,0 +1,15 @@
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\3- Filas.csproj.AssemblyReference.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\3- Filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\3- Filas.AssemblyInfoInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\3- Filas.AssemblyInfo.cs
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\3- Filas.csproj.CoreCompileInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\bin\Debug\net6.0\3- Filas.exe
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\bin\Debug\net6.0\3- Filas.deps.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\bin\Debug\net6.0\3- Filas.runtimeconfig.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\bin\Debug\net6.0\3- Filas.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\bin\Debug\net6.0\3- Filas.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\3- Filas.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\refint\3- Filas.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\3- Filas.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\3- Filas.genruntimeconfig.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\3- Filas\obj\Debug\net6.0\ref\3- Filas.dll

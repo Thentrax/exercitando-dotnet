@@ -1,5 +1,12 @@
 ﻿using _2___Pessoa.Models;
+using System.Globalization;
 
-Pessoa p1 = new Pessoa("Thiago", 21);
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
 
-p1.Apresentar();
+decimal valorMonetario = 100.00M;
+
+Console.WriteLine($"{valorMonetario:C}");
+
+// Pessoa p1 = new Pessoa("Thiago", 21);
+
+// p1.Apresentar();
