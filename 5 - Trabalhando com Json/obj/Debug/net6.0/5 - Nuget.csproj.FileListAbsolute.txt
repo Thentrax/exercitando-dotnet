@@ -1,0 +1,17 @@
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\bin\Debug\net6.0\5 - Nuget.exe
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\bin\Debug\net6.0\5 - Nuget.deps.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\bin\Debug\net6.0\5 - Nuget.runtimeconfig.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\bin\Debug\net6.0\5 - Nuget.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\bin\Debug\net6.0\5 - Nuget.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\5 - Nuget.csproj.AssemblyReference.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\5 - Nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\5 - Nuget.AssemblyInfoInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\5 - Nuget.AssemblyInfo.cs
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\5 - Nuget.csproj.CoreCompileInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\5 - Nuget.csproj.CopyComplete
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\5 - Nuget.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\refint\5 - Nuget.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\5 - Nuget.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\5 - Nuget.genruntimeconfig.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Nuget\obj\Debug\net6.0\ref\5 - Nuget.dll
