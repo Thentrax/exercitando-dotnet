@@ -1,0 +1,15 @@
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\bin\Debug\net6.0\4- Dicionarios.exe
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\bin\Debug\net6.0\4- Dicionarios.deps.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\bin\Debug\net6.0\4- Dicionarios.runtimeconfig.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\bin\Debug\net6.0\4- Dicionarios.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\bin\Debug\net6.0\4- Dicionarios.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\4- Dicionarios.csproj.AssemblyReference.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\4- Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\4- Dicionarios.AssemblyInfoInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\4- Dicionarios.AssemblyInfo.cs
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\4- Dicionarios.csproj.CoreCompileInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\4- Dicionarios.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\refint\4- Dicionarios.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\4- Dicionarios.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\4- Dicionarios.genruntimeconfig.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\4- Dicionarios\obj\Debug\net6.0\ref\4- Dicionarios.dll

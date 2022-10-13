@@ -6,11 +6,11 @@ int select = 0;
 
 while (select != 4)
 {
-   Console.WriteLine("Máquina de Tickets");
+   Console.WriteLine("\n Máquina de Tickets \n");
    Console.WriteLine("1- Novo Ticket");
    Console.WriteLine("2- Receber Ticket");
    Console.WriteLine("3- Listar Tickets Ativos");
-   Console.WriteLine("4- Finalizar");
+   Console.WriteLine("4- Finalizar \n");
    select = Convert.ToInt32(Console.ReadLine());
 
    switch (select)
