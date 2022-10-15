@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Nuget\\5 - Nuget.csproj": {}
+    "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj": {}
   },
   "projects": {
-    "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Nuget\\5 - Nuget.csproj": {
+    "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Nuget\\5 - Nuget.csproj",
+        "projectUniqueName": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj",
         "projectName": "5 - Nuget",
-        "projectPath": "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Nuget\\5 - Nuget.csproj",
-        "packagesPath": "C:\\Users\\01236\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Nuget\\obj\\",
+        "projectPath": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj",
+        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\01236\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
