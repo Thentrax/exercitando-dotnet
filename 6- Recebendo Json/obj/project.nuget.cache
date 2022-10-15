@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zXSjc80/ieFP5i5ch/stsFyChUSjF2rSXqxx7tl/yPpjjWI4016OJti/TWR9rUyAXFooYZ0Oq9Mgsh7He3ufg==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\6- Recebendo Json\\6- Recebendo Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
