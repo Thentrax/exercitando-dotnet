@@ -1,10 +1,16 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "M5lWbo37ua0h/gnh+YpBDb1msQ00QhtfflMmPDJiYyeFYRCA6GZOdPKUMA/x10E1ghFFZNfF/Lgkky0QakeO5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj",
+=======
+  "dgSpecHash": "KvzbFpPAHuFkMQO58gDefwl/UUo5EtRv6Rv8EqaZHVOY8b5GW6jpYtm4zMjIiFlh8GX7lTBJ2FPQQNykBjCW/A==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj",
+>>>>>>> 2c1b168dd177f0745f8e354c7c609347bb08b76c
   "expectedPackageFiles": [
-    "C:\\Users\\01236\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\thiag\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

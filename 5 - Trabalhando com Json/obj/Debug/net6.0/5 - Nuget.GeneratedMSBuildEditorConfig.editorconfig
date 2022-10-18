@@ -7,4 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _5___Nuget
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\5 - Trabalhando com Json\
+=======
+build_property.ProjectDir = d:\Estudo Programação\C#\exercitando-dotnet\5 - Trabalhando com Json\
+>>>>>>> 2c1b168dd177f0745f8e354c7c609347bb08b76c

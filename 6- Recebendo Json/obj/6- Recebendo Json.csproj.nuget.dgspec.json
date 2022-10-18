@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj": {}
+    "D:\\Estudo Programação\\C#\\exercitando-dotnet\\6- Recebendo Json\\6- Recebendo Json.csproj": {}
   },
   "projects": {
-    "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj": {
+    "D:\\Estudo Programação\\C#\\exercitando-dotnet\\6- Recebendo Json\\6- Recebendo Json.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj",
-        "projectName": "5 - Nuget",
-        "projectPath": "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj",
-        "packagesPath": "C:\\Users\\01236\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\01236\\Documents\\Estudo\\C#\\Rep\\exercitando-dotnet\\5 - Trabalhando com Json\\obj\\",
-=======
-    "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj": {}
-  },
-  "projects": {
-    "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj",
-        "projectName": "5 - Nuget",
-        "projectPath": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\5 - Nuget.csproj",
+        "projectUniqueName": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\6- Recebendo Json\\6- Recebendo Json.csproj",
+        "projectName": "6- Recebendo Json",
+        "projectPath": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\6- Recebendo Json\\6- Recebendo Json.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\5 - Trabalhando com Json\\obj\\",
->>>>>>> 2c1b168dd177f0745f8e354c7c609347bb08b76c
+        "outputPath": "D:\\Estudo Programação\\C#\\exercitando-dotnet\\6- Recebendo Json\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config"

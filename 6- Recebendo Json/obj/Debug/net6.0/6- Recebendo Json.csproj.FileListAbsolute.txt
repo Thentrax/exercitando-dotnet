@@ -1,0 +1,17 @@
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\6- Recebendo Json.csproj.AssemblyReference.cache
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\6- Recebendo Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\6- Recebendo Json.AssemblyInfoInputs.cache
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\6- Recebendo Json.AssemblyInfo.cs
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\6- Recebendo Json.csproj.CoreCompileInputs.cache
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\bin\Debug\net6.0\6- Recebendo Json.exe
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\bin\Debug\net6.0\6- Recebendo Json.deps.json
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\bin\Debug\net6.0\6- Recebendo Json.runtimeconfig.json
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\bin\Debug\net6.0\6- Recebendo Json.dll
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\bin\Debug\net6.0\6- Recebendo Json.pdb
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\6- Recebendo Json.csproj.CopyComplete
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\6- Recebendo Json.dll
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\refint\6- Recebendo Json.dll
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\6- Recebendo Json.pdb
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\6- Recebendo Json.genruntimeconfig.cache
+D:\Estudo Programação\C#\exercitando-dotnet\6- Recebendo Json\obj\Debug\net6.0\ref\6- Recebendo Json.dll
