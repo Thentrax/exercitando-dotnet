@@ -1,0 +1,15 @@
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\bin\Debug\net6.0\8- Heranca.exe
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\bin\Debug\net6.0\8- Heranca.deps.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\bin\Debug\net6.0\8- Heranca.runtimeconfig.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\bin\Debug\net6.0\8- Heranca.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\bin\Debug\net6.0\8- Heranca.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\8- Heranca.csproj.AssemblyReference.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\8- Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\8- Heranca.AssemblyInfoInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\8- Heranca.AssemblyInfo.cs
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\8- Heranca.csproj.CoreCompileInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\8- Heranca.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\refint\8- Heranca.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\8- Heranca.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\8- Heranca.genruntimeconfig.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\8- Heranca\obj\Debug\net6.0\ref\8- Heranca.dll
