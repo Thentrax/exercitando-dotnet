@@ -1,0 +1,15 @@
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\12- Abstraindo Smartphone com POO\obj\Debug\net6.0\ref\DesafioPOO.dll

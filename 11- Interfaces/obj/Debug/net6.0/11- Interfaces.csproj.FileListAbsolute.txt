@@ -1,0 +1,15 @@
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\bin\Debug\net6.0\11- Interfaces.exe
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\bin\Debug\net6.0\11- Interfaces.deps.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\bin\Debug\net6.0\11- Interfaces.runtimeconfig.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\bin\Debug\net6.0\11- Interfaces.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\bin\Debug\net6.0\11- Interfaces.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\11- Interfaces.csproj.AssemblyReference.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\11- Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\11- Interfaces.AssemblyInfoInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\11- Interfaces.AssemblyInfo.cs
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\11- Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\11- Interfaces.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\refint\11- Interfaces.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\11- Interfaces.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\11- Interfaces.genruntimeconfig.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\11- Interfaces\obj\Debug\net6.0\ref\11- Interfaces.dll

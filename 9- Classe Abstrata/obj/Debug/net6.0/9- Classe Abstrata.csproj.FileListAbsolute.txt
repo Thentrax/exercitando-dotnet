@@ -1,0 +1,15 @@
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\bin\Debug\net6.0\9- Classe Abstrata.exe
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\bin\Debug\net6.0\9- Classe Abstrata.deps.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\bin\Debug\net6.0\9- Classe Abstrata.runtimeconfig.json
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\bin\Debug\net6.0\9- Classe Abstrata.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\bin\Debug\net6.0\9- Classe Abstrata.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\9- Classe Abstrata.csproj.AssemblyReference.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\9- Classe Abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\9- Classe Abstrata.AssemblyInfoInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\9- Classe Abstrata.AssemblyInfo.cs
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\9- Classe Abstrata.csproj.CoreCompileInputs.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\9- Classe Abstrata.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\refint\9- Classe Abstrata.dll
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\9- Classe Abstrata.pdb
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\9- Classe Abstrata.genruntimeconfig.cache
+C:\Users\01236\Documents\Estudo\C#\Rep\exercitando-dotnet\9- Classe Abstrata\obj\Debug\net6.0\ref\9- Classe Abstrata.dll

@@ -7,6 +7,14 @@ namespace _8__Heranca.Models
 {
     public class Pessoa
     {
+        public Pessoa() // faz com que o construtor seja opcional
+        {
+            
+        }
+        public Pessoa(string nome) // cria um construtor simples
+        {
+         Nome = nome;
+        }
         public string Nome { get; set; }
         public int Idade { get; set; }
 
